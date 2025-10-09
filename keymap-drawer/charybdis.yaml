@@ -36,7 +36,7 @@ layers:
   - K
   - L
   - ;
-  - ((ZMK HID USAGE(HID USAGE KEY, HID USAGE KEY KEYBOARD MINUS AND UNDERSCORE)))
+  - ''''
   - LCTRL
   - Z
   - X
