@@ -5,7 +5,7 @@ manifest:
     - name: badjeff
       url-base: https://github.com/badjeff
     - name: KOHSUK
-      url-base: https://github.com/KOHSUK
+      url-base: https://github.com/Starki-ph
   projects:
     - name: zmk
       remote: zmkfirmware
